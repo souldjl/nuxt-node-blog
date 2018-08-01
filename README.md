@@ -19,5 +19,7 @@ $ npm start
 $ npm run generate
 ```
 
+[预览地址]( https://nuxt-node-blog.herokuapp.com/ "我的vue 服务端渲染demo")
+
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
