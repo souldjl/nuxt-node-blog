@@ -1,5 +1,6 @@
 <template>
   <section class="container">
+    test自动发布
   </section>
 </template>
 
